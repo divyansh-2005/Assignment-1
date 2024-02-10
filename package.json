@@ -1,0 +1,17 @@
+{
+  "name": "ass1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "start": "node --watch src/demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "author": "Divyansh",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.1"
+  }
+}
